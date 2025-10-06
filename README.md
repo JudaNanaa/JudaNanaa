@@ -10,7 +10,7 @@ judanana@localhost
 User: Moussa
 OS: Ubuntu
 Shell: zsh
-Language: C, C++, Rust, Python, Assembly
+Language: C/C++, Rust, Python, Assembly, Typescript
 Currently: student
 Location: Paris, FR
 Discord: nokouille
