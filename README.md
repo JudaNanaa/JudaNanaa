@@ -2,7 +2,7 @@
 > neofetch
 ```
 <!-- <img align="left" alt="oui" src="https://img.freepik.com/premium-photo/iridescent-fluid-texture-background_125540-5994.jpg" width="228" height="228" /> -->
-<img align="left" alt="oui" src="https://cdn.intra.42.fr/users/7812b1adce041dc7f4f796283b4db170/madamou.jpg" width="228" height="228" />
+<img align="left" alt="oui" src="./fond.avif" width="228" height="228" />
 
 ```zig
 judanana@localhost
